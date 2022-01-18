@@ -1,1 +1,1 @@
-# masters-term-paper
+# [Land Cover Mapping](https://www.notion.so/eugeuie/Paper-62da282072414c7cb6450fecff206fdc)
